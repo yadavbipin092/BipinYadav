@@ -1,5 +1,5 @@
 
-[![MasterHead](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)]
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Fud3FvdmV3NnF1amhub3dybHN4azNvdDlsYXZpY2E4c2VlM3A0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Bipin Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
